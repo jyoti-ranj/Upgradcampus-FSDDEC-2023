@@ -1,0 +1,40 @@
+                          UPGRAD LIVE CLASSES FIVE ASSIGNMENTS
+
+1)What is version control?
+ A)Version control is a mangement system which keep track of all changes of the sourcecode and collection of information such as documents project code and information about the modification of a project code.
+
+   version control is of two type.
+     1)Centralized. 
+     2)Distributed.
+
+2)Why should we use version control?
+ A)it's a solution that allows us to
+    -->Revert back to your older version of your project in case you think you ave messed up things.
+    --> And to keep track of changes or additional of the project file by various team member.
+
+3)Difference Between Git and GitHub.
+  A) Git and GitHub are two different things,
+     GitHub is nothing but one of the best web based git hosting sevice.
+
+    In GitHub we can share our filesystem like documents sourcecode etc with other and they can access your documents sourcecode etc and we can store remote files and project code of other developers as well.
+
+    Whereas git is a distributed version control system and it's a tool to manage your project and sourcecode in our developement history.
+
+4)If we are using Git for the First time which command we have to put for the configuration?
+ 
+ A) *First we have to set the user name for that we have to put
+     #git config -- global user.name "random"
+
+    *Then we have to put the user email id for that we have to put
+     #git config -- global user.email "XXXX@example.com"
+
+    *And to intialize an empty git repository we have to put 
+     #git init 
+
+5)If you have writen the source code then what is the command to add that file into the stagging area and commit that file.
+
+  -->Command for adding the file into stagging area
+     #git add "filename"
+  -->Command for commit
+     #git commit -m "commit message"   
+
