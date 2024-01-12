@@ -10,7 +10,7 @@ class Assignment2 {
     System.out.println("Student mark is "+student_marks);
     System.out.println("This is student phone num "+student_phone_no);
     System.out.println("Student fees per month "+student_fees);
-    
+
         
     }
 
